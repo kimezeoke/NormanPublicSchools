@@ -1,5 +1,5 @@
 # NormanPublicSchools
-##Overview
+## Overview
 This project focuses on building and improving district-wide library reporting systems across 24 K–12 schools. The goal was to enhance data accuracy, standardize reporting processes, and generate actionable insights for administrators, librarians, and district stakeholders.
 🎯 Objectives
 Standardize library data reporting across multiple schools
